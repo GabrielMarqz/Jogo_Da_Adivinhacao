@@ -1,0 +1,2 @@
+# Jogo_Da_Adivinhacao
+ Tentar adivinhar um número gerado pelo programa entre 0 - 100. O Jogador tem 10 tentativas para adivinhar o número, ao fim de cada tentativa é impresso na tela se o número informado é maior ou menor que o número a adivinhar, também é impresso a quantidade de tentativas restantes. Se o Jogador acertar o número, é impresso na tela uma mensagem de parabéns com o número de tentativas utilizadas para o êxito. Se o Jogador não adivinhar após as 10 tentativas, é impresso uma mensagem de fim de jogo e o programa é encerrado.
